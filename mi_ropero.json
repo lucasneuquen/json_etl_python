@@ -1,0 +1,25 @@
+[
+    {
+        "nombre": "Lucas",
+        "apellido": "Bello",
+        "DNI": 25374087,
+        "vestimenta": [
+            {
+                "prenda": "Camisa",
+                "cantidad": 2
+            },
+            {
+                "prenda": "Pantalon",
+                "cantidad": 1
+            },
+            {
+                "prenda": "Zapatillas",
+                "cantidad": 3
+            },
+            {
+                "prenda": "Campera",
+                "cantidad": 8
+            }
+        ]
+    }
+]
